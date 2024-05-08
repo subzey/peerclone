@@ -1,0 +1,7 @@
+{
+	"type": "module",
+	"name": "peerclone",
+	"version": "0.1.0",
+	"bin": "./index.js",
+	"license": "MIT"
+}
