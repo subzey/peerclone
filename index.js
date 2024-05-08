@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { spawn } from 'node:child_process';
 import { basename } from 'node:path';
 import { randomBytes } from 'node:crypto';
